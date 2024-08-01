@@ -5,8 +5,7 @@
 
 # 🔥DSA-LeetCodeSolns
 
-![DSA-LeetCodeSolns](https://socialify.git.ci/animeshhh/DSA-LeetCodeSolns-Java/image?description=1&font=Inter&language=1&owner=1&pattern=Charlie%20Brown&theme=Dark)
-
+![DSA-LeetCodeSolns](https://socialify.git.ci/animeshhh/DSA-LeetCodeSolns/image?font=Jost&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
 
 
 ## Getting Started
