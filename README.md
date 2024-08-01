@@ -3,15 +3,16 @@
 
 
 
-# 🔥DSA-LeetCodeSolns-Java
+# 🔥DSA-LeetCodeSolns
 
-![DSA-LeetCodeSolns-Java](https://socialify.git.ci/animeshhh/DSA-LeetCodeSolns-Java/image?description=1&font=Inter&language=1&owner=1&pattern=Charlie%20Brown&theme=Dark)
+![DSA-LeetCodeSolns](https://socialify.git.ci/animeshhh/DSA-LeetCodeSolns-Java/image?description=1&font=Inter&language=1&owner=1&pattern=Charlie%20Brown&theme=Dark)
 
 
 
 ## Getting Started
 
-In this repository, I'll work on solutions of LeetCode Easy-to-Hard [LeetCode](https://leetcode.com/problemset/all/) problems by Java as much as I could.
+##-In this repository, I'll work on solutions of LeetCode Easy-to-Hard [LeetCode](https://leetcode.com/problemset/all/) problems by Java as much as I could.
+##-Anyone willing to contribute in anyother language is welcome :)
 
 ## Leetcode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/animeshofficial9?ext=activity)
